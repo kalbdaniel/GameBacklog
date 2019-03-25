@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="nl.hva.dka.gamebacklog.MainActivity">
+    <item
+        android:id="@+id/action_delete_all"
+        android:title="Delete All"
+        android:icon="@drawable/garbage"
+        app:showAsAction="ifRoom" />
+</menu>
